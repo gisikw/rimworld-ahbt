@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+  <xpath>Defs/ThingDef[defName="Plant_TreeBonsai"]/plant/autoHarvestable</xpath>
+  <value>
+    <autoHarvestable>true</autoHarvestable> 
+  </value>
+  </Operation>
+</Patch>
